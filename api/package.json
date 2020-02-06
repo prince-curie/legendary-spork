@@ -1,0 +1,19 @@
+{
+  "name": "legendary-spork",
+  "version": "1.0.0",
+  "description": "An automated message sending service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prince-curie/legendary-spork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prince-curie/legendary-spork/issues"
+  },
+  "homepage": "https://github.com/prince-curie/legendary-spork#readme"
+}
